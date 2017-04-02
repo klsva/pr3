@@ -1,0 +1,27 @@
+{
+  "name": "pr3",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Elena <klsva.el@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/klsva/les3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-migrate-official": "^3.0.0",
+    "bootstrap": "^3.3.7",
+    "bootstrap-notify": "^0.2.0",
+    "owl-carousel": "^1.3.2",
+    "animate.scss": "*",
+    "font-awesome": "fontawesome#^4.7.0",
+    "equalize": "^1.0.2"
+  }
+}
