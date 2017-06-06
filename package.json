@@ -19,17 +19,28 @@
   "devDependencies": {
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^3.1.1",
+    "gulp-bower": "0.0.13",
     "gulp-bower-normalize": "^1.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.0.0",
+    "gulp-google-cdn": "^2.1.0",
     "gulp-jade": "^1.1.0",
+    "gulp-main-bower-files": "^1.6.2",
     "gulp-notify": "^3.0.0",
+    "gulp-pug": "^3.3.0",
     "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "icheck": "^1.0.2",
     "main-bower-files": "^2.13.1"
   },
   "dependencies": {
+    "del": "^2.2.2",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-jade": "^1.1.0",
     "gulp-notify": "^3.0.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-sass": "^3.1.0",
+    "icheck": "^1.0.2"
   }
 }
